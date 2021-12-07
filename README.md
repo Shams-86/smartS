@@ -1,2 +1,1 @@
-# smartS
-semester Project
+# NotesApp
